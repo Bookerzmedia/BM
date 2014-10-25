@@ -1,4 +1,4 @@
 BM
 ==
 
-Welcome To My Repository
+Welcome To My Repository. This is about sharing ideas and making fiendsr
